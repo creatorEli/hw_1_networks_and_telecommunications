@@ -1,0 +1,16 @@
+{
+  "name": "app_transmition",
+  "version": "0.0.1",
+  "description": "App for my HW (Networks and telecommunications)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Mefodev",
+  "license": "ISC",
+  "dependencies": {
+    "process": "^0.11.10",
+    "readline": "^1.3.0"
+  },
+  "type": "module"
+}
